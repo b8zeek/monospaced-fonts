@@ -36,5 +36,5 @@
 ### Anonymous Pro
 <img src='./src/images/anonymous_pro.png'>
 
-Gradient: `#021604` 50% `#032b08` 50% `#021604`
+Gradient: `#021604` 50% `#032b08` 50% `#021604`  
 Margins: `30px`
